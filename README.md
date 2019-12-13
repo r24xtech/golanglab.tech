@@ -1,5 +1,4 @@
 # golanglab.tech
-Programs from golanglab.tech
 
 <hr>
 
