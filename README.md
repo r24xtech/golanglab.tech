@@ -2,4 +2,4 @@
 
 <hr>
 
-GitHub repository for **golanglab.tech**.
+GitHub repository for **golanglab.tech**
