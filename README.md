@@ -3,8 +3,6 @@
 
 <h2>Archive</h2>
 
-<hr>
-
 <h4>data-structures</h4>
 <ul>
   <li>doubly-linked-list.go</li>
