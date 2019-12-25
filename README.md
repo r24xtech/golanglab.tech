@@ -3,6 +3,7 @@
 
 <h2>Archive</h2>
 
+
 <h4>data-structures</h4>
 <ul>
   <li>doubly-linked-list.go</li>
@@ -28,6 +29,8 @@
 
 
 <h2>Learning Resources</h2>
+
+
 <h4>Books</h4>
   <ul>
     <li><span class="color-my-link">The Go Programming Language</span> by Alan A. A. Donovan and Brian W. Kernighan (2015)</li>
