@@ -19,7 +19,7 @@
 
 <h4>web-development</h4>
 <ul>
-  <li>to-do-list</li>
+  <li>to-do-list (To do app)</li>
 </ul>
 
 <h4>concurrency</h4>
