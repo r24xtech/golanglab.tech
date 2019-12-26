@@ -24,12 +24,16 @@
 
 <h4>concurrency</h4>
 <ul>
-  <li>an-introduction-to-concurrency.go</li>
+  <li>An introduction to concurrency</li>
 </ul>
 
 <h4>Networking</h4>
 <ul>
-  <li>a-simple-tcp-server.go</li>
+  <li>server (a simple tcp server)</li>
+  <ul>
+    <li>server.go</li>
+    <li>client.go</li>
+  </ul>
 </ul>
 
 <h2>Learning Resources</h2>
