@@ -27,7 +27,7 @@
   <li>An introduction to concurrency</li>
 </ul>
 
-<h4>Networking</h4>
+<h4>networking</h4>
 <ul>
   <li>server (a simple tcp server)</li>
   <ul>
