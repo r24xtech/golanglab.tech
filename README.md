@@ -20,6 +20,7 @@
 <h4>web-development</h4>
 <ul>
   <li>to-do-list (To do app)</li>
+  <li>random.go (How to render a random post)</li>
 </ul>
 
 <h4>concurrency</h4>
